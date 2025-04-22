@@ -61,7 +61,7 @@ int main() {
 
 
 
-OUTPUT:
+OUTPUT
 
 Enter number of processes: 5
 Enter priority (0 for user, 1 for system):
